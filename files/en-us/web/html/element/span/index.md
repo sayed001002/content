@@ -1,6 +1,6 @@
 ---
 title: '<span>: The Content Span element'
-slug: Web/HTML/Element/span
+slug: Web/HTML/Element
 tags:
   - Element
   - HTML
@@ -8,7 +8,7 @@ tags:
   - HTML:Flow content
   - Reference
   - Web
-browser-compat: html.elements.span
+browser-compat: html.elements
 ---
 
 {{HTMLRef}}
